@@ -33,4 +33,41 @@ Linux Fundamentals (workflow)
 
 <br/>
 
+09  Use cURL from your Pwnbox (not the target machine) to obtain the source code of the "https://www.inlanefreight.com" website and filter all unique paths of that domain. Submit the number of these paths as the answer.
+<img width="1057" alt="Screenshot 2023-11-14 at 7 15 31 AM" src="https://github.com/younis1234-png/Linux_fdm01/assets/73474252/eb7148c5-4228-4d33-a528-c29f4f8e8706">
+
+
+<br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
