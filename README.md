@@ -45,6 +45,11 @@ Linux Fundamentals (workflow)
 
 
 
+---------------------------------------------------------------------
+
+Find a way to start a simple HTTP server inside Pwnbox or your local VM using "npm". Submit the command that starts the web server on port 8080 (use the short argument to specify the port number).
+
+<img width="954" alt="Screenshot 2023-11-14 at 3 25 31 PM" src="https://github.com/younis1234-png/Linux_fdm01/assets/73474252/9f05831b-6b97-42b7-a441-cee32c20e4e5">
 
 
 
