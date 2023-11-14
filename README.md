@@ -1,5 +1,5 @@
 # Linux_fdm01
-Linux Fundamentals 
+Linux Fundamentals (workflow)
 
 01 Login in to htb-student and find out the machine hardware name 
 
@@ -24,3 +24,9 @@ Linux Fundamentals
 
 06 What is the name of the last modified file in the "/var/backups" directory?
 ![Screenshot 2023-11-13 at 9 04 00 PM](https://github.com/younis1234-png/Linux_fdm01/assets/73474252/fcc2f38f-9c07-496a-a0c0-2bc8ded464e8)
+
+07 What is the name of the config file that has been created after 2020-03-03 and is smaller than 28k but larger than 25k
+08How many files exist on the system that have the ".bak" extension?
+
+<img width="710" alt="Screenshot 2023-11-13 at 10 02 07 PM" src="https://github.com/younis1234-png/Linux_fdm01/assets/73474252/93297831-6020-4d88-a72b-813771404268">
+
